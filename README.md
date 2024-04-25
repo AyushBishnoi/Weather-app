@@ -1,6 +1,6 @@
 # Weather-app
 
-This project tells the weather of any city you want you just have to type the name of the city in search and press enter then the weather of the city will be shown to you and you can seen the weather in celsius & fahrenheit by clicking the button.
+This project tells the weather of any city you want, you just have to type the name of the city in search and press enter then the weather of the city will be shown to you and you can seen the weather in celsius & fahrenheit by clicking the button.
 
 This is app is developed using React Js.
 
