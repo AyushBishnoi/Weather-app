@@ -6,7 +6,7 @@ This is app is developed using React Js.
 
 ## Getting started
 
-1.) Make sure you already have <span style="color: green">Node.js</span> and npm installed in your system. </br>
+1.) Make sure you already have <code>Node.js</code> and npm installed in your system. </br>
 2.) Then download the file in your local system & install packages using npm install.</br>
 3.) You have to install a "react-icons" dependencies to use react icons you can install them by which i have use in the the application.</br>
 4.) I have provided my API_KEY for you. </br>
