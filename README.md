@@ -12,6 +12,7 @@ This is app is developed using React Js.
 4.) I have provided my <code>API_KEY</code> for you. </br>
 5.) But you need an API key from <a href="https://openweathermap.org/api">OpenWeatherMap</a>. After creating an account, grab your key after <a href="https://home.openweathermap.org/users/sign_in">sign in</a>.</br>
 6.) Then you have put your <code>API_KEY</code> in the the variable API_KEY present in the weatherService.js. </br>
+7.) Now have fun with the website.
 
 ## Some Screenshot of the Website.
 
