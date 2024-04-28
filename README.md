@@ -25,4 +25,4 @@ This is app is developed using React Js.
 
 <a href="https://weather-app-ayushb.netlify.app/">https://weather-app-ayushb.netlify.app/</a> </br>
 
-THANK YOU
+THANK YOU ☺
