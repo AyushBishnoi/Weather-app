@@ -11,4 +11,8 @@ This is app is developed using React Js.
 3.) You have to install a <code>react-icons</code> dependencies to use react icons you can install them by </code>npm i react-icons</code> which i have use in the the application.</br>
 4.) I have provided my <code>API_KEY</code> for you. </br>
 5.) But you need an API key from <a href="https://openweathermap.org/api">OpenWeatherMap</a>. After creating an account, grab your key after <a href="https://home.openweathermap.org/users/sign_in">sign in</a>.</br>
-6.) Then you have put your <code>API_KEY</code> in the the variable API_KEY present in the weatherService.js.
+6.) Then you have put your <code>API_KEY</code> in the the variable API_KEY present in the weatherService.js. </br>
+
+## Some Screenshot of the Website.
+
+<img src="https://github.com/AyushBishnoi/Weather-app/assets/123483082/fd8d7ea7-3ba6-4a33-a3a0-95454a8c9a98" height="250px" width="250px" alt="weather"/>
