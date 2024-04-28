@@ -15,4 +15,10 @@ This is app is developed using React Js.
 
 ## Some Screenshot of the Website.
 
-<img src="https://github.com/AyushBishnoi/Weather-app/assets/123483082/fd8d7ea7-3ba6-4a33-a3a0-95454a8c9a98" height="350px" width="700px" alt="weather"/>
+<img src="https://github.com/AyushBishnoi/Weather-app/assets/123483082/fd8d7ea7-3ba6-4a33-a3a0-95454a8c9a98" height="350px" width="700px" alt="weather"/> </br>
+
+#### Responsive
+
+<img src="https://github.com/AyushBishnoi/Weather-app/assets/123483082/ee526483-3da4-43d4-923b-646f861747ae" height="350px" width="700px" alt="weather"/> </br>
+
+
