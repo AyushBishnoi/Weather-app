@@ -54,7 +54,7 @@ function App() {
               <div className="section section__temperature">
                 <div className="city-details">
                   <h3>{`${weather.name}, ${weather.country}`}</h3>
-                  <img src={weather.iconURL} height="80px" width="80px" />
+                  <img src={weather.iconURL} height="80px" width="80px" alt="icon" />
                   <h3>{weather.description}</h3>
                 </div>
                 <div className="temperature">
