@@ -23,6 +23,6 @@ This is app is developed using React Js.
 
 ## Link of the Website deployed
 
-<a href="https://weather-app-ayushb.netlify.app/">Weather App</a> </br>
+<a href="https://weather-app-ayushb.netlify.app/">https://weather-app-ayushb.netlify.app/</a> </br>
 
 THANK YOU
