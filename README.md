@@ -19,6 +19,6 @@ This is app is developed using React Js.
 
 #### Responsive
 
-<img src="https://github.com/AyushBishnoi/Weather-app/assets/123483082/ee526483-3da4-43d4-923b-646f861747ae" height="350px" width="700px" alt="weather"/> </br>
+<img src="https://github.com/AyushBishnoi/Weather-app/assets/123483082/ee526483-3da4-43d4-923b-646f861747ae" height="450px" width="700px" alt="weather"/> </br>
 
 
